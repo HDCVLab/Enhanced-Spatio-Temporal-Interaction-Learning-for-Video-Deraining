@@ -5,7 +5,7 @@ Kaihao Zhang, Dongxu Li, Wenhan Luo, Wen-Yan Lin, Fang Zhao, Wenqi Ren, Wei Liu,
 To replicate the environment:
 
 ```bash
-cd proj/code
+cd code
 conda install --file requirements.txt
 ```
 
