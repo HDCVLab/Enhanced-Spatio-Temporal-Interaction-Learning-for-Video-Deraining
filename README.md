@@ -39,7 +39,7 @@ bash train_resnet18_rainsys_heavy_5pic.sh
 ### Testing with pre-trained weights
 **Please first modify bash files accordingly with your data folder path.**
 
-Download checkpoints and put in ```code/best_checkpoints```
+Download checkpoints and put in ```code/best_checkpoints```  (https://drive.google.com/drive/folders/19PSF-slyB_m_0dWWo-VRe_uvGOlDiCPf?usp=sharing)
 
 (1) Test on NTU dataset:
 ```bash
