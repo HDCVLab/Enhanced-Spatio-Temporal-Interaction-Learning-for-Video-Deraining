@@ -13,26 +13,26 @@ conda install --file requirements.txt
 **Please first modify bash files accordingly with your data folder path.**
 
 ```bash
-cd proj/code/run_scripts
+cd code/run_scripts
 ```
 (1) Train on NTU dataset:
 Put data under /$YOUR_ROOTPATH/derain/NTU-derain
 ```bash
-cd proj/code/run_scripts/
+cd code/run_scripts/
 bash train_resnet18_5pic.sh
 ```
 
 (2) Train on RainSys25 light dataset:
 Put data under /$YOUR_ROOTPATH/derain/RainSyn25
 ```bash
-cd proj/code/run_scripts/
+cd code/run_scripts/
 bash train_resnet18_rainsys_light_5pic.sh
 ```
 
 (3) Train on RainSys25 heavy dataset:
 Put data under /$YOUR_ROOTPATH/derain/RainSyn25
 ```bash
-cd proj/code/run_scripts/
+cd code/run_scripts/
 bash train_resnet18_rainsys_heavy_5pic.sh
 ```
 
@@ -43,19 +43,19 @@ Download checkpoints and put in ```code/best_checkpoints```
 
 (1) Test on NTU dataset:
 ```bash
-cd proj/code/run_scripts/
+cd code/run_scripts/
 bash test_ntu_npic.sh
 ```
 
 (2) Test on RainSys25 light dataset:
 ```bash
-cd proj/code/run_scripts/
+cd code/run_scripts/
 bash test_light_npic.sh
 ```
 
 (3) Test on RainSys25 heavy dataset:
 ```bash
-cd proj/code/run_scripts/
+cd code/run_scripts/
 bash test_heavy_npic.sh
 ```
 
