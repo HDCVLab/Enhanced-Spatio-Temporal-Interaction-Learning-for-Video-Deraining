@@ -1,5 +1,5 @@
 ## Enhanced Spatio-Temporal Interaction Learning for Video Deraining: A Faster and Better Framework
-Kaihao Zhang, Dongxu Li, Wenhan Luo, Wenqi Ren, Wei Liu, Hongdong Li
+Kaihao Zhang, Dongxu Li, Wenhan Luo, Wenqi Ren, Wei Liu
 
 ### Installation
 To replicate the environment:
@@ -63,7 +63,7 @@ bash test_heavy_npic.sh
 ```bibtex
   @article{zhang2021enhanced,
     title={Enhanced Spatio-Temporal Interaction Learning for Video Deraining: A Faster and Better Framework},
-    author={Zhang, Kaihao and Li, Dongxu and Luo, Wenhan and Ren, Wenqi and Liu, Wei and Li, Hongdong},
+    author={Zhang, Kaihao and Li, Dongxu and Luo, Wenhan and Ren, Wenqi and Liu, Wei},
     journal={arXiv preprint arXiv:2103.12318},
     year={2021}
   }
