@@ -61,10 +61,10 @@ bash test_heavy_npic.sh
 
 ### Citation
 ```bibtex
-  @article{zhang2021enhanced,
+  @article{zhang2022enhanced,
     title={Enhanced Spatio-Temporal Interaction Learning for Video Deraining: A Faster and Better Framework},
     author={Zhang, Kaihao and Li, Dongxu and Luo, Wenhan and Ren, Wenqi and Liu, Wei},
-    journal={arXiv preprint arXiv:2103.12318},
-    year={2021}
+    journal={IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
+    year={2022}
   }
 ```
